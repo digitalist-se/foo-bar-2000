@@ -1,0 +1,8 @@
+site_name: "foo-bar-2000"
+site_description: "Foo bar 2000 test"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

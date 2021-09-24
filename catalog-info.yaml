@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "foo-bar-2000"
+  description: "Foo bar 2000 test"
+  annotations:
+    github.com/project-slug: digitalist-se/foo-bar-2000
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "digitalist-se-ops"
