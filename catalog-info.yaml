@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "foo-bar-2000"
-  description: "Foo bar 2000 test"
+  description: "Foo bar 2000 tests"
   annotations:
     github.com/project-slug: digitalist-se/foo-bar-2000
     backstage.io/techdocs-ref: dir:.
