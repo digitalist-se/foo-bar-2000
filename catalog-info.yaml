@@ -3,10 +3,10 @@ kind: Component
 metadata:
   name: "foo-bar-2000"
   description: "Foo bar 2000 tests"
-  annotations:
-    github.com/project-slug: digitalist-se/foo-bar-2000
-    packagist.org/composer-packages-site: verksamt-se
 spec:
   type: website
   lifecycle: experimental
   owner: "digitalist-se-ops"
+  annotations:
+    github.com/project-slug: digitalist-se/foo-bar-2000
+    packagist.org/composer-packages-site: verksamt-se
