@@ -5,7 +5,7 @@ metadata:
   description: "Foo bar 2000 tests"
   annotations:
     github.com/project-slug: digitalist-se/foo-bar-2000
-    backstage.io/techdocs-ref: dir:.
+    packagist.org/composer-packages-site: verksamt-se
 spec:
   type: website
   lifecycle: experimental
